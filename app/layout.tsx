@@ -2,9 +2,9 @@ import { Analytics } from "@vercel/analytics/react";
 import { Metadata } from "next";
 import "../styles/globals.css";
 
-let title = "VisionRoom";
+let title = "roomVision";
 let description = "Generate your dream room in seconds.";
-let sitename = "VisionRoom";
+let sitename = "roomVision";
 
 export const metadata: Metadata = {
   title,
